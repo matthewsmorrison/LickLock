@@ -22,7 +22,7 @@ html,body { height: 100%; margin: 0px; padding: 0px; background: #ccc }
   margin: 0 auto;
   width: 40%;
   height: 90%;
-  background-image: url("../public/images/bg.svg");
+  background-image: url("images/bg.svg");
   background-color: white;
   background-position: center; /* Center the image */
   background-repeat: repeat; /* Do not repeat the image */
@@ -36,7 +36,7 @@ html,body { height: 100%; margin: 0px; padding: 0px; background: #ccc }
   height: 20%;
   text-align: center;
   border-radius: 3px;
-  background-image: url("../public/images/mouth.png");
+  background-image: url("images/mouth.png");
   background-color: transparent;
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
